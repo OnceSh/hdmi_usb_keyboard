@@ -1,0 +1,5 @@
+安装：
+opencv-python
+pygame
+pynput
+pyserial
